@@ -1,2 +1,2 @@
 # WebDev
-hello thisis my first reposatery
+hello this is my first project
